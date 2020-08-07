@@ -1,13 +1,13 @@
 # Projetos
 
-![banner-ferrovias](https://github.com/twpinter/Portfolio/blob/gh-pages/images/banner-ferrovias.png)
+![banner-ferrovias](/images/banner-ferrovias.png)
 
  ### 1. [Análise do transporte ferroviário de cargas no Brasil](https://github.com/twpinter/Projeto-Ferrovias/blob/master/Ferrovias-pandas.ipynb)
  
  (Em desenvolvimento) O objetivo deste projeto é a análise da utilização do modal ferroviário no Brasil para o transporte de cargas no período entre 2006 e 2019. Procuramos observar a evolução do uso das ferrovias no transporte de cargas, as principais mercadorias transportadas e os principais Estados de origem destas cargas. Por fim, serão propostos modelos de previsão para o volume transportado entre as principais mercadorias. **Ferramentas: SQL, Python.**
  
 
-![banner-acoes](https://github.com/twpinter/Portfolio/blob/gh-pages/images/banner-acoes.png)
+![banner-acoes](/images/banner-acoes.png)
 
  ### 2. [Construção de carteiras de ações com dados da B3](https://github.com/twpinter/Projeto-acoes)
  
