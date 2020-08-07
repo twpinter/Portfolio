@@ -1,4 +1,4 @@
-# Portfólio Tiago W. Pinter
+# Portfólio Tiago Wobeto Pinter
 
 ## Projetos:
 
