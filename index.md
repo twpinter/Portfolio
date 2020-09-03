@@ -1,6 +1,6 @@
 # Tiago Wobeto Pinter
 
-## Projetos/Projects
+## Projetos
 
 ![banner-ferrovias](/images/banner-ferrovias.png)
 
