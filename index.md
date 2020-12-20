@@ -19,4 +19,4 @@
 
 [Repositório (Repository)](https://github.com/twpinter/Projeto-Painel-Macroeconomia)
 
-[Teste Relatório](https://twpinter.github.io/Portfolio/documentos/WEGE3_Resultados_4T19.pdf)
+[Teste Relatório](https://github.com/Portfolio/documentos/WEGE3_Resultados_4T19.pdf)
